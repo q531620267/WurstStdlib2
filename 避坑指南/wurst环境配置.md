@@ -3,4 +3,6 @@
 一定要装64位的JDK，否则会导致-Xmx1G不能修改大小而无法编译大文件！！！
 Java heap space： https://jingyan.baidu.com/article/a681b0de3bec7b3b19434652.html?qq-pf-to=pcqq.c2c
 
-建议jdk使用:http://www.uzzf.com/soft/706884.html Java SE Development Kit 8)v8.0.311 官方版
+建议jdk使用:http://www.uzzf.com/soft/706884.html Java SE Development Kit 8 v8.0.311 官方版
+
+                                                                                                        -月光著
