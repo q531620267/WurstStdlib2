@@ -5,4 +5,7 @@ Java heap space： https://jingyan.baidu.com/article/a681b0de3bec7b3b19434652.ht
 
 建议jdk使用:http://www.uzzf.com/soft/706884.html Java SE Development Kit 8 v8.0.311 官方版
 
-                                                                                                        -月光著
+Q
+不显示左下角task.json配置的编译地图，运行地图等怎么办
+A
+vscode插件没有装全，需要装actboy写的Tasks，Lua debug
